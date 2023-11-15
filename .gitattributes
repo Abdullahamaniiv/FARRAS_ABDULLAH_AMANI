@@ -1,2 +1,140 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pariwisata Kabupaten Brebes</title>
+    </head>
+</html>
+<body>
+    <h1 style="font-size: large font; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Selamat Datang di Website Pariwisata Kab. Brebes </h1>
+    <h2 style="font-size: medium; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">SEJEN KARO LIYANE</h2>
+    <p>Ini adalah Website tidak resmi dari Pariwisata Kabupaten Brebes</p>
+    <h3></h3>
+    <h4></h4>
+    <p>Di tabel dibawah ini ada daftar Pariwisata Kabupaten Brebes</p>
+    <h5></h5>
+    <h6></h6>
+</body>
+<nav>
+    <ul>
+        <li><a></a></li>
+        <li><a></a></li>
+        <li><a></a></li>
+        <li><a></a></li>
+    </ul>
+</nav>
+<table>
+    <tr>
+      <th>Tempat Wisata</th>
+      <th>Bangunan Bersejarah</th>
+      <th>Wisata Kuliner & Makanan Khas</th>
+    </tr>
+    <tr>
+      <td>Pabrik Gula Kersana</td>
+      <td>Kompleks Pendopo Kabupaten Brebes</td>
+      <td>Telor Asin</td>
+    </tr>
+    <tr>
+      <td>Waduk Malahayu</td>
+      <td>Kompleks Perumahan & Bekas Pabrik Gula di Kersana</td>
+      <td>Sate Kambing Muda Khas Kabupaten Brebes</td>
+    </tr>
+    <tr>
+        <td>Mata Air Sungai Pemali</td>
+        <td>Kompleks Perumahan & Bekas Pabrik Gula di Banjaratma</td>
+        <td>Rujak Belut Mak Ribut di Cigedong</td>
+    </tr>
+    <tr>
+        <td>Pantai Randusanga Indah</td>
+        <td>Komplek Pabrik Gula Jatibarang</td>
+        <td>Kupat Glabed & Sate Blengon</td>
+    </tr> <tr>
+        <td>Pemandian Air Panas Cipanas Bantarkawung</td>
+        <td>Masjid Agung Brebes</td>
+        <td>Bandeng Presto Duri Lunak</td>
+    </tr>
+    <tr>
+        <td>Pemandian Air Panas Kedungoleng</td>
+        <td>Masjid Al Kurdi didesa Karangmalang dibangun tahun 1917 </td>
+        <td>Nasi Lengko</td>
+    </tr> <tr>
+        <td>Cagar Alam Telaga Ranjeng</td>
+        <td>Jembatan Sakalimolas</td>
+        <td>Tape Ketan Daun Jambu</td>
+    </tr>
+    <tr>
+        <td>Mata Air Cibentar, Bentarsari, Salem</td>
+        <td>Beberapa Gedung Pegadaian</td>
+        <td>Teh Poci Wasgitel</td>
+    </tr>
+    <tr>
+        <td>Air terjun Waru Doyong</td>
+        <td>Gedung Nasional (STIE Widya Manggalia)</td>
+        <td>Kerupuk Rambak yang diproduksi di wilayah Bumiayu, Brebes yang terbuat dari kulit kerbau.</td>
+    </tr>
+    <tr>
+        <td>Mata Air Dua Suhu</td>
+        <td>Gedung SD Negeri 3 Brebes</td>
+        <td>Kerupuk Rambak (Terbuat dari Kulit Lembu) di daerah Bumiayu</td>
+    </tr>
+    <tr>
+        <td>Ciblon Waterboom Brebes</td>
+        <td>Gedung SMA Negeri 1 Brebes</td>
+        <td>Bakso Dengkil Kersana</td>
+    </tr>
+    <tr>
+        <td>Agrowisata Kaligua</td>
+        <td>=====</td>
+        <td>Swike</td>
+    </tr>
+    <tr>
+        <td>Agrowisata Sepoor Teboe PG Jatibarang</td>
+        <td>=====</td>
+        <td>=====</td>
+    </tr>
+    <tr>
+        <td>Kebun Durian Antapsari di Desa Rajawetan, Tonjong</td>
+        <td>=====</td>
+        <td>=====</td>
+    </tr>
+    <tr>
+        <td>Cipanas Jalatunda di desa Ciseureuh </td>
+        <td>=====</td>
+        <td>=====</td>
+    </tr>
+    <tr>
+        <td>Curug Putri di Desa Benda, Sirampog</td>
+        <td>=====</td>
+        <td>=====</td>
+    </tr>
+    <tr>
+        <td>Wisata Pulau Hutan Mangrove Pandansari Brebes</td>
+        <td>=====</td>
+        <td>=====</td>
+    </tr>
+    <tr>
+        <td>Kalibaya Park, Salem</td>
+        <td>=====</td>
+        <td>=====</td>
+    </tr>
+    <tr>
+        <td>Bukit Panenjoan, Salem</td>
+        <td>=====</td>
+        <td>=====</td>
+    </tr>
+    <tr>
+        <td>Bukit Bintang, Desa Capar Salem</td>
+        <td>=====</td>
+        <td>=====</td>
+    </tr>
+    <tr>
+        <td>Wisata Air Terjun & Rafting Ranto Canyon, Salem</td>
+        <td>=====</td>
+        <td>=====</td>
+    </tr>
+    <tr>
+        <td>Curug Cantel, Sirampog</td>
+        <td>=====</td>
+        <td>=====</td>
+    </tr>
+  </table>
+    <h7>Coypright 2007-2023 by Dinas Pariwisata Kabupaten Brebes</h7>
